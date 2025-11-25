@@ -404,7 +404,7 @@ We tested four different approaches to see which works best:
 
 ## 👨‍💻 About the Author
 
-**Emaad Rehman**  
+**Emaad Ur Rehman**  
 Data Analyst @ Publicis Groupe
 ---
 

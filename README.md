@@ -213,13 +213,13 @@ We tested four different approaches to see which works best:
 │   ├── nvidia_cleaned.csv                 # Raw cleaned data (63 rows, 6 columns)
 │   └── nvidia_with_features.csv           # Enhanced data (44 rows, 28 columns)
 │
-├── 🤖 Trained Models/
+├── 🤖 models/
 │   ├── lstm_model.h5                      # LSTM neural network
 │   ├── rnn_model.h5                       # RNN neural network
 │   ├── arima_model.pkl                    # ARIMA statistical model
 │   └── prophet_model.pkl                  # Prophet model
 │
-├── 📈 Visualizations/
+├── 📈 visualizations/
 │   ├── 1_price_with_ma.png               # Price trends with moving averages
 │   ├── 2_volume.png                       # Trading volume analysis
 │   ├── 3_candlestick_features.png         # Daily price patterns
